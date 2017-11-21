@@ -1,6 +1,9 @@
 #base-node
 
-A simple and highly configurable base project for ECMAScript 2015 projects.
+A simple and highly configurable base project for Typescript projects.
+
+
+#The below text is from another project and needs to be reviewed for this project
 
 Out-of-the-box support for:
   1. Packaging your application (including dependencies) into a single, compacted script file.
